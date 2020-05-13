@@ -7,7 +7,7 @@ class TextDemo extends StatelessWidget{
   static const String _name = "Tony Stark";
   static const String _longText = """"
   플로터는 구글이 개발한 오픈소스 모바일 애플리케이션 개발 프레임워크이다.
-  안드로이드, ios용 애플리케이션 개발을 위해, 또 구글 퓨시아용 애플리케이션 개발의 주된 방식으로 사용된다.
+  안드로이드, ios용 애플리케이션 개발을 위해, 또 구글 퓨시아용 애플리케이션 개발의 주된 방식으로 사용된다   .
   """;
 
   @override
