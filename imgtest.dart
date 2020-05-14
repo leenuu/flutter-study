@@ -24,3 +24,5 @@ class ImageDemo extends StatelessWidget{
     );
   }
 }
+
+// pubspec.ymal파일에 이미지 경로 추가해야함
